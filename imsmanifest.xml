@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<manifest identifier="hlCABiBQEAU4eX7FjSqfQSE0MfRqWG6ma92MSRa6" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Team Building Through Chemistry</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Team Building Through Chemistry</title>
+        <adlcp:datafromlms>eyJjcHYiOiJhOTJNU1JhNiIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/cac37931.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/d7770ee9.js" />
+<file href="scormcontent/lib/rise/4cef5863.css" />
+<file href="scormcontent/lib/rise/94046037.js" />
+<file href="scormcontent/lib/rise/eb9bd09f.js" />
+<file href="scormcontent/lib/rise/20be7de8.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/b6873211.js" />
+<file href="scormcontent/lib/mondrian/0e859ef5.js" />
+<file href="scormcontent/lib/mondrian/7b2a258a.js" />
+<file href="scormcontent/lib/mondrian/18ae508c.js" />
+<file href="scormcontent/lib/mondrian/3e40eb79.js" />
+<file href="scormcontent/lib/mondrian/cdf9a293.js" />
+<file href="scormcontent/lib/mondrian/3f9ba7c0.js" />
+<file href="scormcontent/lib/mondrian/07d24945.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/OpenSans-Italic.woff" />
+<file href="scormcontent/lib/fonts/OpenSans-Bold.woff" />
+<file href="scormcontent/lib/fonts/OpenSans-Regular.woff" />
+<file href="scormcontent/lib/fonts/OpenSans-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/assets/0ACpO-/A-5.png" />
+<file href="scormcontent/assets/T9y9gnnbJZwwLcgx_4F9XbS6p443qmQOl.jpg" />
+<file href="scormcontent/assets/d2hajb4pIHFzZhXr_transcoded-BNfw3BFZKb39GYuO-speech_20220629141428650.mp3" />
+<file href="scormcontent/assets/lwMKu_xmCct6sjC4_transcoded-bP1UvQeo6V8H3yFW-Team_2520Building_2520Through_2520Chemistry-00001.png" />
+<file href="scormcontent/assets/XwYU7HU_7xr5TiGF_transcoded-bP1UvQeo6V8H3yFW-Team_2520Building_2520Through_2520Chemistry.mp4" />
+<file href="scormcontent/assets/C2olKHDEfihmqyBt_avQsH6cHqD1eezF7.jpg" />
+<file href="scormcontent/assets/4r4jWFCl0Cq8lK3Z_transcoded-SqvVPzZREEwrS53r-Chemistry__2520Module_25202__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/MB0tSP1s9YaTSTTu_transcoded-aQo6h_FiBeTgC_e1-Chemistry__2520Module_25202__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/NA72yg4Ev4fFkwOd_mountains.jpg" />
+<file href="scormcontent/assets/F29UwEt5AlKFWFXE_n52FMGYZJ9dAy1Ez.jpg" />
+<file href="scormcontent/assets/pOZYBYes3rCX7l1K_transcoded-NPO5lPsX0-fcEG09-Chemistry__2520Module_25202__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/7O39-XMsNYeQjAYI_transcoded-ZokyNjyJC38Ll5zD-Chemistry__2520Module_25202__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/H-2iS4ooUiPVbb7P_8tTUlHvfIr5HUMAb.png" />
+<file href="scormcontent/assets/In0xZdDpL-fJMERC_transcoded-amVG6OAjT03kbeUd-Chemistry__2520Module_25202__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/K30X_wEoEHhalKSS_3y3g8HhieRs0e0cc.jpg" />
+<file href="scormcontent/assets/Qu4E_sBmnbBRjO6I_transcoded-0Fa0192PrwOVgpPJ-Chemistry__2520Module_25203__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/fvJYYULXVaopd54K_tLwuPqlL2c1rGOyA.jpg" />
+<file href="scormcontent/assets/iJrxAd4LZTqbcAHB_transcoded-2ff6fgT5xnChbGIr-Chemistry__2520Module_25203__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/3rotdzY6RIpNW4Wl_s3KRQY2D7a5rpTAs.jpg" />
+<file href="scormcontent/assets/LPsBdSpnw0MgJF8o_transcoded-D337BAfCwjpypZRC-Chemistry__2520Module_25203__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/gjREoNHiId6SAahD_transcoded-GSdhz6md3OZyvHow-Chemistry__2520Module_25203__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/u1PMWowy5BfEN-Ma_TaOGDZyngjXrMZhI.jpg" />
+<file href="scormcontent/assets/FtWsFVZgsBwU-qvU_transcoded-bcaZpozHaIhV0WJK-Chemistry__2520Module_25203__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/3yM2uifXRDwnEEuY_7OjEOVczL829r-rY.jpg" />
+<file href="scormcontent/assets/OrCBOISLwL1hvEWU_IuT6pOuUbkCrJVZj.jpg" />
+<file href="scormcontent/assets/SPEwFnzwCBVvVfsk_transcoded-M6M4piEB2E0bcDQh-Chemistry__2520Module_25204__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/GwQ9bqvucdQFW6qU_Egdyx5CHmodOEg5L.jpg" />
+<file href="scormcontent/assets/LjShP-bVkSOe37wN_transcoded-g40_R0MATlNo8guO-Chemistry__2520Module_25204__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/jhJzc-YUtg0N5CgP_transcoded-gyPsqFR7TkZeVGH--Chemistry__2520Module_25204__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/SplehWc25pBz00Iw_transcoded-S7MPBfnU-aL-FQ2p-Chemistry__2520Module_25204__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/9_ySBBVCir4tQ58H_e62koyKak0Zav0og.jpg" />
+<file href="scormcontent/assets/JWc2UPC3A5pHSmoU_transcoded-aW3eeuVRqO_3PsTn-Chemistry__2520Module_25204__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/foZiYNxEcqFaKqqG_ESeM-cxIdD6uvd0c.png" />
+<file href="scormcontent/assets/6e1RGYlByEv5BT_W_transcoded-dPuN8oz9aalnK5mU-Module_252004-00001.png" />
+<file href="scormcontent/assets/jdDHE_-sUuyx-bub_transcoded-dPuN8oz9aalnK5mU-Module_252004.mp4" />
+<file href="scormcontent/assets/KZxScYT1oqokYQ4I_oLo7Syx4wuzpOg9R.jpg" />
+<file href="scormcontent/assets/QWI9xi9hGmHVE4Ui_transcoded-iPV3ZnWdZZ0pN4eJ-Chemistry__2520Module_25205__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/9d1qLr2w38QvEGd5_transcoded-Lk9nzTLbEGj8wRWG-Chemistry__2520Module_25205__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/jGGbB-XM7fyH92K9_g7LLVHY2-wpY5XpK.png" />
+<file href="scormcontent/assets/w4_YEhYs0OE5GT2R_transcoded-ubgjnzPsdZA3GS-O-Chemistry__2520Module_25205__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/DTGxV5pFI3bcnDHL_6MS2LRFvX6Qie9ms.jpg" />
+<file href="scormcontent/assets/No0Xtuq6RLwDBXey_transcoded-moWcB3yYb1tc7HKN-Chemistry__2520Module_25205__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/1geJugT6akKp3Klx_qeAv3kBYnCDB5vDQ.jpg" />
+<file href="scormcontent/assets/9ppV8QPGrrqEo9Ka_transcoded-j2U6ZsKg6V4JNRHC-Chemistry__2520Module_25205__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/bnrFI71td-wWE-1Q_transcoded-NsiF7vbnXH2RXWWN-Module_252005-00001.png" />
+<file href="scormcontent/assets/aljkLksFnlYH28Ow_transcoded-NsiF7vbnXH2RXWWN-Module_252005.mp4" />
+<file href="scormcontent/assets/XU9jZ1EXJK0TDN15_s1dXmpF3dDoXzLXd.jpg" />
+<file href="scormcontent/assets/nClMJAVEL2SU91S__transcoded-qiaC_yRiyJYJqBqU-Chemistry__2520Module_25206__2520SLide_25201.mp3" />
+<file href="scormcontent/assets/AloUHPVZ_Kzt063z_transcoded-E442rXwgXt4M203_-Chemistry__2520Module_25206__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/0TSyTToQW3Ic-lmO_41_2_yvjmp4fqaE5.png" />
+<file href="scormcontent/assets/8GuZ_DXHvuVMNgj1_BNQMzhyMXc337TGD.jpg" />
+<file href="scormcontent/assets/1fp80IDSb4DROCZi_transcoded-MDDuvxn4BjUVKmiz-Chemistry__2520Module_25206__2520SLide_25203.mp3" />
+<file href="scormcontent/assets/itpa5fXBte7VkaQK_transcoded-hZkkPqcGAL-JXc2N-Chemistry__2520Module_25206__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/C1fFX-NPh-_agsfR__vSH_5WKaaTQks59.jpg" />
+<file href="scormcontent/assets/ER-XaAdQQzRFf2IL_transcoded-G7DeZI9wcIxGKANf-Chemistry__2520Module_25206__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/WSPIn60qfB43ux4m_VXGEa-POqJk-majE.jpg" />
+<file href="scormcontent/assets/s0WE3uk8BuRKZTwZ_9p80L2ZUf7A3uYNQ.jpg" />
+<file href="scormcontent/assets/9LGboDkqrRzSW4BZ_vGtzex7tyzzMSqBO.jpg" />
+<file href="scormcontent/assets/SW6YERTwL_UIpEER_jibcdoi8umozYWjC.jpg" />
+<file href="scormcontent/assets/qc-Awra1jx127aHx_transcoded-ujrZIAx5wxVr_SNO-Chemistry__2520Module_25207__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/tQAd5dlzJWLNMiaM_transcoded-IKHWMJpupxzUB9mI-Chemistry__2520Module_25207__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/ZuDCKF2vFg-skxWv_T_6tABTky0xjPBBk.jpg" />
+<file href="scormcontent/assets/Nur8V4eBAbEzdZHX_transcoded-Snf3ckiz4Jh_kd0k-Chemistry__2520Module_25207__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/3dq95d4oIo9qSbql_o_4xQyAE7b4MSTyB.jpg" />
+<file href="scormcontent/assets/jq01lRV8--CNu5t1_transcoded-ZJQDtfxX2uYZIKQG-Chemistry__2520Module_25207__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/j0Xc4KJ0iT_DnDpQ_transcoded-53QKkYLfZufVI3_Z-Chemistry__2520Module_25207__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/AlU0DE4v3MtVCw7t_transcoded-S68H0SAE7kMj0_s0-Module_252007-00001.png" />
+<file href="scormcontent/assets/k-S4UdVy7o1_zzNK_transcoded-S68H0SAE7kMj0_s0-Module_252007.mp4" />
+<file href="scormcontent/assets/4qNTWuWg0s6PhFZq_btBrrZYvYV3zEKyO.jpg" />
+<file href="scormcontent/assets/2B3AncdFexqpnpsp_transcoded-8N9ilOBLjcfeV7HX-Chemistry__2520Module_25208__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/XmpZP4jdXEJnJhif_transcoded-2_OHueuSaI90wJDb-Chemistry__2520Module_25208__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/qK5ioztIqICCm5DQ_transcoded-LT9Fv_rcptBfgonv-Chemistry__2520Module_25208__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/fEOsc0wO0ofCyCNz_transcoded-UKBP_bxkvLl6Tt8y-Chemistry__2520Module_25208__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/d26VCrPiyy7gdRyM_transcoded-eq7zU_rEzFyg3vJ_-Chemistry__2520Module_25208__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/88pwWSY-Dox46TAC_FN1YNc1l2C2FeS1m.png" />
+<file href="scormcontent/assets/759dQB-k26pBJ1Lx_transcoded-PklwYUgQ_Hvlz2NS-Module_252008-00001.png" />
+<file href="scormcontent/assets/eC74La8rv6ORJMg6_transcoded-PklwYUgQ_Hvlz2NS-Module_252008.mp4" />
+<file href="scormcontent/assets/zdT4E6gxnjTcBfWL_s0SmEcNZzrC_cfZq.jpg" />
+<file href="scormcontent/assets/nWdwnraY32R8wTS-_transcoded-fGmxIWxuBFvSsTa1-Chemistry__2520Module_25209__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/Gscne45tA_3No2jP_transcoded-WjTtY3ODrDbtps1n-Chemistry__2520Module_25209__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/tgNmsbkUsx4262Ib_transcoded-4SWEZ7U___AWplIN-Chemistry__2520Module_25209__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/QmTUiqdCl1o2-HvH_K01QgEK7axquf5i0.png" />
+<file href="scormcontent/assets/FFhmDkwiR3Inw_sC_O3ae8GsuAdzirUAj.jpg" />
+<file href="scormcontent/assets/vK7AfiQqloGl8nhs_transcoded-w95n4ELjWZ9BnAXk-Chemistry__2520Module_25209__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/8CbnVxXJ0U-DJEfy_transcoded-NSrXk3vflSpK4ntq-Chemistry__2520Module_25209__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/LJhkAkf0ovaCltV7_6qpPfoFqKCcHP5mq.jpg" />
+<file href="scormcontent/assets/pjc476veDtVD3f2O_transcoded-eUty1m5Klg0H5kIq-Chemistry__2520Module_252010__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/Uwx6mJpK-6ytHqDX_transcoded-buMQLSKAQkyvGBu6-Chemistry__2520Module_252010__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/Scvp5DRIUR2bPb4T_transcoded-uU4LgaYXrb89liNg-Chemistry__2520Module_252010__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/Vrc9GFOqNiWEen_J_QazujuOulz792A-3.jpg" />
+<file href="scormcontent/assets/b9eceBorVDH1umQA_transcoded-r7-x9s1Iz_MbMKsm-Chemistry__2520Module_252010__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/Esur2ZbsgW-FCLEb_transcoded-hPC8x7uhrahKni1a-Chemistry__2520Module_252010__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/WXxwC1ltwcvv5r76_ehmcr_jCq_CiKKB8.png" />
+<file href="scormcontent/assets/O136hC6Qc63nKK0a_G1X_SlBTMK24_Ejc.jpg" />
+<file href="scormcontent/assets/odTjLIwENs7B18O9_transcoded-ZbTP_l7yrjVW7LpH-Chemistry__2520Module_252011__2520Slide_25201.mp3" />
+<file href="scormcontent/assets/pS5Q0H9PuOaJnbVs_transcoded-5s0e1Q72hnLIcZb4-Chemistry__2520Module_252011__2520Slide_25202.mp3" />
+<file href="scormcontent/assets/uLDaUg6gz7F-iY8k_jbThHSQe5A8f1iW0.png" />
+<file href="scormcontent/assets/2HSreOnsYMaLeOG__RFOx3Kgh-5wHnQYo.jpg" />
+<file href="scormcontent/assets/UDaTls0FgDj8bHRg_transcoded-AfX4L-YvW2eSQe2K-Chemistry__2520Module_252011__2520Slide_25203.mp3" />
+<file href="scormcontent/assets/z1tprDKmTE2FUoJV_Vg3UfZDZdNYn26mJ.jpg" />
+<file href="scormcontent/assets/sYphYrUOi75NJ5r__transcoded-sG7VGbQgxsav6tEd-Chemistry__2520Module_252011__2520Slide_25204.mp3" />
+<file href="scormcontent/assets/SKC-1X_XV91iNSN8_transcoded-kQ8IxUgldcmxuNXU-Module_252011-00001.png" />
+<file href="scormcontent/assets/QUIfoOKOuxTpZPi5_transcoded-kQ8IxUgldcmxuNXU-Module_252011.mp4" />
+<file href="scormcontent/assets/mUXVZ71k8r_iQf1V_evgvjQ7GoFwFXlHy.jpg" />
+<file href="scormcontent/assets/DSq85Idee1bAOZMZ_transcoded-VaPVe5l6p7rkFzOh-Chemistry__2520Module_252011__2520Slide_25205.mp3" />
+<file href="scormcontent/assets/89PKaFG25YZU3n0__transcoded-v980aMWsD6XCp4uL-Chemistry.mp3" />
+<file href="scormcontent/assets/yX_2dQUTlxs9ZHk3_quote_background.jpg" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
